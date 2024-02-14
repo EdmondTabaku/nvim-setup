@@ -8,6 +8,6 @@ For a perfect zen experience I use the following setup:
 - This perfect [Berserk wallpaper](https://cdna.artstation.com/p/assets/images/images/018/347/278/large/anato-finnstark-anato-finnstark-the-band-of-the-hawk-berserk-by-anatofinnstark-dct5yif-fullview.jpg?1559045840) by [Anato Finnstark](https://www.artstation.com/anto-finnstark) 
 
 Result:
-![](https://raw.githubusercontent.com/EdmondTabaku/nvim-setup/main/assets/screenshot.png)
+![](https://raw.githubusercontent.com/EdmondTabaku/nvim-setup/master/assets/screenshot.png)
 
 
